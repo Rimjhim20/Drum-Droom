@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: rgb(7 43 93);
+}
+
+h1 {
+  font-size: 5rem;
+  color: #dbedf3;
+  font-family: "Ubuntu", sans-serif;
+  text-shadow: 3px 0 cyan;
+  margin-top: 20px;
+}
+
+footer {
+  color: #dbedf3;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.w {
+  background-color: #ff000086;
+}
+
+.a {
+  background-color: peru;
+}
+
+.s {
+  background-color: antiquewhite;
+}
+
+.d {
+  background-color: darkmagenta;
+}
+
+.j {
+  background-color: darkgoldenrod;
+}
+
+.k {
+  background-color: lightgreen;
+}
+
+.l {
+  background-color: yellow;
+}
+
+.set {
+  margin: 50px auto;
+  border: 2px solid cyan;
+  height: 480px;
+  width: 50%;
+  padding: 50px;
+  border-radius: 20%;
+}
+.container{
+  width: 54vw;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 hsl(195, 78%, 70%);
+  opacity: 0.5;
+}
+
+.red {
+  color: cyan;
+}
+
+.drum {
+  outline: none;
+  border: 8px solid cyan;
+  font-size: 5rem;
+
+  font-weight: 900;
+  color: rgb(0, 132, 255);
+  text-shadow: 3px 0 hsl(195, 57%, 59%);
+  border-radius: 100px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+
+  font-family: "Ubuntu", sans-serif;
+}
